@@ -1,0 +1,14 @@
+Task 2:
+
+OBJ: turn a string for teachers students, and everyone
+
+Rules: Burger 25% off for teachers and students, 10% for public
+
+Execution:
+if the customer is a student or teacher they get a 25% discount
+else if they are public they would get 10% discount
+
+Task 6 
+OBJ: Once some one puts in the array of reviews and a number on the index it should pull up `{name} gave the restaurant a {rating}, and their feedback was: {feedback}`
+
+
